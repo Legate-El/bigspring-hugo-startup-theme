@@ -1,4 +1,4 @@
-baseURL = "http://dewsystems.netlify.com"
+baseURL = ""
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
@@ -74,7 +74,7 @@ weight = 4
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-logo = "images/logo.png"
+logo = "images/dewsystemlogo.jpg"
 logo_width = "200px"
 [params.navigation_button]
 enable = true
