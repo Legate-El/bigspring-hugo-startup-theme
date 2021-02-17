@@ -18,7 +18,7 @@ weight = 2
 [languages.en]
 contentDir = "content"
 copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "contactgegevens: < /br>adres: < /br>btw/ondernemingsnummer: < /br>IBAN en BIC: < /br>"
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
